@@ -18,6 +18,7 @@ BepInExPack Timberborn
 
 ## 動作確認バージョン
 - Timberborn update1 Windows v0.1.1.1-db764df-gw
+- Timberborn update1 Windows v0.1.5.2-773c83b-gw
 
 ## インストール
 releaseフォルダ内のdllをBepInExのpluginsフォルダへコピーする。
